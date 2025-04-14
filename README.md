@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de ADS na Universidade Católica de Brasília | Foco em Desenvolvimento Fullstack</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-eduardo-4b7941264/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/CaduS0uza" target="_blank">
@@ -65,7 +65,7 @@ Também me interesso por *automação* e *modelagem de banco de dados*.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CaduS0uza&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CaduS0uza&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
