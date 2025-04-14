@@ -1,44 +1,42 @@
-<h1 align="center">Hello! 👋 I'm Carlos Eduardo dos Santos Souza</h1>
-<h3 align="center">ADS Student at Universidade Católica de Brasília | Aspiring Fullstack Developer</h3>
+<h1 align="center">Olá! 👋 Me chamo Carlos Eduardo dos Santos Souza</h1>
+<h3 align="center">Estudante de ADS na Universidade Católica de Brasília | Foco em Desenvolvimento Fullstack</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/seu-usuario-github" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre mim
 
-I'm currently studying *Systems Analysis and Development (ADS)* at *Universidade Católica de Brasília (UCB)*.  
-I'm passionate about *back-end development*, with a continuous focus on technologies like **Python**, and also *front-end development* using **JavaScript and React**.  
-I'm also interested in *automation* and *database modeling*.
+Atualmente curso *Análise e Desenvolvimento de Sistemas (ADS)* na *Universidade Católica de Brasília (UCB)*.  
+Tenho interesse em *desenvolvimento back-end*, com foco contínuo em tecnologias como **Python**, além de *front-end* com **JavaScript e React**.  
+Também me interesso por *automação* e *modelagem de banco de dados*.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Habilidades & Tecnologias
 
 <p align="center">
-  <!-- Languages -->
+  <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
 
-  <!-- Databases -->
+  <!-- Banco de dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
 
-  <!-- Tools -->
+  <!-- Ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
@@ -46,31 +44,31 @@ I'm also interested in *automation* and *database modeling*.
 
 ---
 
-### 🎓 Academic Background
+### 🎓 Formação Acadêmica
 
-- *Course:* Systems Analysis and Development (in progress)  
-- *Institution:* Universidade Católica de Brasília (UCB)
-
----
-
-### 🚀 Currently Working On
-
-- *Current Focus:* Fullstack development  
-- *Technologies I'm Studying:* Python, JavaScript, React, SQL
+- *Curso:* Análise e Desenvolvimento de Sistemas (em andamento)  
+- *Instituição:* Universidade Católica de Brasília (UCB)
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Em Desenvolvimento
+
+- *Foco atual:* Desenvolvimento Fullstack  
+- *Tecnologias em estudo:* Python, JavaScript, React, SQL
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=seu-usuario-github&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
 
-> “Building the future, one line of code at a time.”
+> “Construindo o futuro, uma linha de código por vez.”
