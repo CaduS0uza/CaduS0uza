@@ -50,10 +50,7 @@ Sou desenvolvedor **Fullstack**, estudante de **Análise e Desenvolvimento de Si
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
 
-  <!-- Extras -->
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-powerapps.png" title="Power Apps"/>
-</p>
+ 
 
 ---
 
