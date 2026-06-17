@@ -49,6 +49,7 @@ Sou desenvolvedor **IA Pleno**, estudante de **Análise e Desenvolvimento de Sis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
+  <img src="https://img.icons8.com/3d-fluency/1200/3d-claude-ai-logo.jpg" width="50" height="50" title="Claude"/>
 
  
 
