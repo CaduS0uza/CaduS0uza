@@ -5,7 +5,7 @@
 
 <!-- CABEÇALHO -->
 <h1 align="center">Carlos Eduardo dos Santos Souza 🇧🇷</h1>
-<h4 align="center">Fullstack Developer | Estudante de ADS na Universidade Católica | Criando com alma e propósito</h4>
+<h4 align="center">Direct Response Marketing | Dev AI Engineer Pleno </h4>
 
 ---
 
