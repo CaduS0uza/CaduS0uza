@@ -28,9 +28,9 @@
 
 E aí! Me chamo **Carlos Eduardo**, mas a galera me chama de **Cadu** 👋
 
-Sou desenvolvedor **Fullstack**, estudante de **Análise e Desenvolvimento de Sistemas** pela **Universidade Católica**, e gosto de escrever código que **resolve problema de verdade** — com criatividade, responsa e aquele toque brasileiro que ninguém tem.
+Sou desenvolvedor **IA Pleno**, estudante de **Análise e Desenvolvimento de Sistemas** pela **Universidade Católica**, e também trabalho com marketing de resposta direta. Eu gosto de **resolvre problemas de verdade** com criatividade e sempre desenvolvendo novas ideias, pensando em novos negócios e sempre bastante proativo.
 
-💡 Gosto de criar soluções do zero, com tecnologia moderna, boas práticas e muito café ☕.
+💡 Gosto de criar soluções do zero, com tecnologia moderna e boas práticas.
 
 ---
 
