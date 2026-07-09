@@ -10,8 +10,7 @@
 <p align="center">
   <a href="mailto:carloxeduu@gmail.com"><img height="52" src="./assets/btn-gmail.svg" alt="Gmail" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/carlos-eduardo-4b7941264/"><img height="52" src="./assets/btn-linkedin.svg" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://www.instagram.com/caduzinho.souza/"><img height="52" src="./assets/btn-instagram.svg" alt="Instagram" /></a>&nbsp;
-  <a href="https://carlossouza.netlify.app/"><img height="52" src="./assets/btn-portfolio.svg" alt="Portfólio" /></a>
+  <a href="https://www.instagram.com/carlos.ssouza/"><img height="52" src="./assets/btn-instagram.svg" alt="Instagram" /></a>&nbsp;
 </p>
 
 <br/>
