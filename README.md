@@ -3,7 +3,7 @@
 
 <!-- ============ TYPING ANIMADO ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00E5C0&center=true&vCenter=true&width=760&height=38&lines=Dev+Pleno+%40+Blue+Ocean;Founder+%40Direto+Ads+%F0%9F%9A%80;Direct+Response+Marketing+%2B+IA;Transformo+c%C3%B3digo+em+convers%C3%A3o..." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00E5C0&center=true&vCenter=true&width=760&height=38&lines=Dev+Pleno+%40+Blue+Ocean;Founder+%40+Direto+Ads+%F0%9F%9A%80;Direct+Response+Marketing+%2B+IA;Transformo+c%C3%B3digo+em+convers%C3%A3o..." alt="typing" />
 </p>
 
 <!-- ============ BOTOES DE CONTATO (custom) ============ -->
