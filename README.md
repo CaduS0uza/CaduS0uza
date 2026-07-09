@@ -72,16 +72,12 @@ Vivo na fronteira entre **código e conversão**: construo produtos, SaaS e auto
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CaduS0uza&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5C0&icon_color=00A3FF" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduS0uza&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5C0" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CaduS0uza&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5C0&icon_color=00A3FF" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaduS0uza&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5C0" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaduS0uza&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5C0&ring=00A3FF&fire=FF6A00&currStreakLabel=00E5C0" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaduS0uza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
 </div>
 
 <!-- gráfico de atividade -->
