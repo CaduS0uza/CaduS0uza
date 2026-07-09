@@ -15,7 +15,6 @@
 
 <br/>
 
-<!-- ============ 01 · SOBRE ============ -->
 <img width="520" src="./assets/sec-sobre.svg" alt="Sobre mim" />
 
 E aí! Me chamo **Carlos Eduardo** — mas pode chamar de **Cadu** 👋
