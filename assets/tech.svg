@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 272" width="900" height="272" fill="none">
+  <defs>
+    <linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111c30"/><stop offset="1" stop-color="#0c1424"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="270" rx="18" fill="url(#pg)" stroke="#1e2f4d" stroke-width="1.5"/>
+
+  <!-- barra estilo terminal -->
+  <circle cx="30" cy="30" r="5" fill="#ff5f57" opacity="0.8"/>
+  <circle cx="48" cy="30" r="5" fill="#febc2e" opacity="0.8"/>
+  <circle cx="66" cy="30" r="5" fill="#28c840" opacity="0.8"/>
+  <text x="88" y="35" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#6b7fa3">cadu@stack : ~/skills</text>
+  <line x1="20" y1="52" x2="880" y2="52" stroke="#1a2740" stroke-width="1.2"/>
+
+  <!-- FRONTEND -->
+  <text x="44" y="92" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#00E5C0" letter-spacing="1.5">FRONTEND</text>
+  <line x1="44" y1="100" x2="180" y2="100" stroke="#16233c" stroke-width="1"/>
+  <g font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#c3d0e6">
+    <circle cx="48" cy="124" r="3" fill="#00E5C0"/><text x="62" y="129">React</text>
+    <circle cx="48" cy="154" r="3" fill="#00E5C0"/><text x="62" y="159">Next.js</text>
+    <circle cx="48" cy="184" r="3" fill="#00E5C0"/><text x="62" y="189">TypeScript</text>
+    <circle cx="48" cy="214" r="3" fill="#00E5C0"/><text x="62" y="219">Tailwind CSS</text>
+  </g>
+
+  <!-- BACKEND -->
+  <text x="262" y="92" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#5b9bff" letter-spacing="1.5">BACKEND</text>
+  <line x1="262" y1="100" x2="398" y2="100" stroke="#16233c" stroke-width="1"/>
+  <g font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#c3d0e6">
+    <circle cx="266" cy="124" r="3" fill="#5b9bff"/><text x="280" y="129">Node.js</text>
+    <circle cx="266" cy="154" r="3" fill="#5b9bff"/><text x="280" y="159">Python</text>
+    <circle cx="266" cy="184" r="3" fill="#5b9bff"/><text x="280" y="189">PostgreSQL</text>
+    <circle cx="266" cy="214" r="3" fill="#5b9bff"/><text x="280" y="219">Supabase</text>
+  </g>
+
+  <!-- IA & DATA -->
+  <text x="480" y="92" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#9b7bff" letter-spacing="1.5">IA &amp; DATA</text>
+  <line x1="480" y1="100" x2="616" y2="100" stroke="#16233c" stroke-width="1"/>
+  <g font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#c3d0e6">
+    <circle cx="484" cy="124" r="3" fill="#9b7bff"/><text x="498" y="129">Claude</text>
+    <circle cx="484" cy="154" r="3" fill="#9b7bff"/><text x="498" y="159">GPT</text>
+    <circle cx="484" cy="184" r="3" fill="#9b7bff"/><text x="498" y="189">Gemini</text>
+    <circle cx="484" cy="214" r="3" fill="#9b7bff"/><text x="498" y="219">Prompt Eng.</text>
+  </g>
+
+  <!-- INFRA / OPS -->
+  <text x="698" y="92" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#35d0a5" letter-spacing="1.5">INFRA / OPS</text>
+  <line x1="698" y1="100" x2="856" y2="100" stroke="#16233c" stroke-width="1"/>
+  <g font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#c3d0e6">
+    <circle cx="702" cy="124" r="3" fill="#35d0a5"/><text x="716" y="129">Vercel</text>
+    <circle cx="702" cy="154" r="3" fill="#35d0a5"/><text x="716" y="159">Netlify</text>
+    <circle cx="702" cy="184" r="3" fill="#35d0a5"/><text x="716" y="189">Git &amp; GitHub</text>
+    <circle cx="702" cy="214" r="3" fill="#35d0a5"/><text x="716" y="219">Meta Ads API</text>
+  </g>
+
+  <line x1="20" y1="244" x2="880" y2="244" stroke="#1a2740" stroke-width="1.2"/>
+  <text x="44" y="262" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#5f7196">$ construindo produtos que unem código + conversão</text>
+</svg>

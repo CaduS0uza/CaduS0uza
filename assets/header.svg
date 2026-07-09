@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" fill="none" role="img" aria-label="Carlos Eduardo - Cadu">
+  <defs>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5b9bff"/>
+      <stop offset="1" stop-color="#00E5C0"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5C0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00E5C0"/>
+      <stop offset="1" stop-color="#00E5C0" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="blob1" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#0048FF" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#0048FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#00E5C0" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#00E5C0" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="7" flood-color="#00E5C0" flood-opacity="0.45"/>
+    </filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#18233b"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="300" rx="0"/></clipPath>
+    <style>
+      @keyframes d1{0%{transform:translate(0,0)}50%{transform:translate(70px,26px)}100%{transform:translate(0,0)}}
+      @keyframes d2{0%{transform:translate(0,0)}50%{transform:translate(-60px,-18px)}100%{transform:translate(0,0)}}
+      @keyframes mv{0%{transform:translateX(-160px)}100%{transform:translateX(560px)}}
+      @keyframes pl{0%,100%{opacity:.85}50%{opacity:1}}
+      .b1{animation:d1 9s ease-in-out infinite;transform-origin:center}
+      .b2{animation:d2 12s ease-in-out infinite;transform-origin:center}
+      .sw{animation:mv 3.6s cubic-bezier(.5,0,.5,1) infinite}
+      .nm{animation:pl 4s ease-in-out infinite}
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- fundo -->
+    <rect width="1200" height="300" fill="#0d1117"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+
+    <!-- glows que se movem -->
+    <g filter="url(#soft)">
+      <circle class="b1" cx="270" cy="120" r="150" fill="url(#blob1)"/>
+      <circle class="b2" cx="980" cy="210" r="165" fill="url(#blob2)"/>
+    </g>
+
+    <!-- anel techy girando (direita) -->
+    <g transform="translate(1015 150)" opacity="0.9">
+      <circle r="84" fill="none" stroke="#0048FF" stroke-opacity="0.28" stroke-width="1.5" stroke-dasharray="5 11">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="34s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="58" fill="none" stroke="#00E5C0" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="3 9">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="26s" repeatCount="indefinite"/>
+      </circle>
+      <text x="0" y="12" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="34" font-weight="700" fill="#00E5C0" opacity="0.85">&#60;/&#62;</text>
+    </g>
+
+    <!-- nome -->
+    <text x="72" y="132" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="60" font-weight="800" letter-spacing="-1" fill="url(#name)" filter="url(#glow)" class="nm">Carlos Eduardo</text>
+
+    <!-- chip Cadu -->
+    <g transform="translate(74 156)">
+      <rect x="0" y="0" width="132" height="30" rx="15" fill="#0f1a2e" stroke="#20406e" stroke-width="1"/>
+      <circle cx="18" cy="15" r="4" fill="#00E5C0"/>
+      <text x="32" y="20" font-family="ui-monospace,Menlo,monospace" font-size="15" fill="#9fd8ff" font-weight="600">@CaduS0uza</text>
+    </g>
+
+    <!-- subtitulo -->
+    <text x="220" y="177" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="19" fill="#aab8d4">Dev Pleno @ Blue Ocean &#160;&#183;&#160; Founder @ Direto Ads</text>
+
+    <!-- linha com brilho passando -->
+    <rect x="74" y="205" width="620" height="2.5" rx="1.25" fill="#1b2740"/>
+    <g clip-path="url(#frame)">
+      <rect class="sw" x="74" y="204" width="160" height="4" rx="2" fill="url(#sweep)"/>
+    </g>
+
+    <!-- tech line -->
+    <text x="74" y="238" font-family="ui-monospace,Menlo,monospace" font-size="14.5" fill="#5f7196" letter-spacing="0.3">React · Next.js · Node · Python · Supabase · IA · Direct Response</text>
+  </g>
+</svg>
