@@ -19,14 +19,9 @@
 
 E aí! Me chamo **Carlos Eduardo** — mas pode chamar de **Cadu** 👋
 
-Vivo na fronteira entre **código e conversão**: construo produtos, SaaS e automações que resolvem problema de verdade **e vendem**. Junto a cabeça de **desenvolvedor** com a de **marketeiro de resposta direta** — e é essa mistura que me faz criar coisa que funciona no mundo real, não só no `localhost`.
+Vivo entre **código e conversão**: construo produtos, SaaS e automações que resolvem problema de verdade **e vendem**. Junto a cabeça de **desenvolvedor** com a de **marketeiro de resposta direta**, e é essa mistura que me faz criar coisas que funcionam no mundo real.
 
-- 🔵 &nbsp;**Blue Ocean** — **Desenvolvedor IA Pleno**: plataformas internas, agentes de IA e automações pra operação de tráfego, CS e gestão.
-- 🟠 &nbsp;**Direto Ads** — **Founder**: minha empresa de **Direct Response Marketing** — funis, ofertas, criativos e infra própria de vendas.
-- 🎓 &nbsp;Estudante de **Análise e Desenvolvimento de Sistemas** — Universidade Católica de Brasília.
-- 💡 &nbsp;Gosto de **criar do zero**, com tecnologia moderna, boas práticas e obsessão por resultado.
-
-> *"Não basta ser bonito no código — tem que converter."*
+> *"Não basta ser bonito no código, tem que converter."*
 
 <br/>
 
