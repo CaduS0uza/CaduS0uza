@@ -15,9 +15,7 @@
 
 <br/>
 
-<img width="520" src="./assets/sec-sobre.svg" alt="Sobre mim" />
-
-E aí! Me chamo **Carlos Eduardo** — mas pode chamar de **Cadu** 👋
+E aí! Me chamo **Carlos Eduardo** 👋
 
 Vivo entre **código e conversão**: construo produtos, SaaS e automações que resolvem problema de verdade **e vendem**. Junto a cabeça de **desenvolvedor** com a de **marketeiro de resposta direta**, e é essa mistura que me faz criar coisas que funcionam no mundo real.
 
