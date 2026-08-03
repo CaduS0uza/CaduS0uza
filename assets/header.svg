@@ -70,7 +70,7 @@
     </g>
 
     <!-- subtitulo -->
-    <text x="220" y="177" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="19" fill="#aab8d4">Dev Pleno @ Blue Ocean &#160;&#183;&#160; Founder @ Direto Ads</text>
+    <text x="220" y="177" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="19" fill="#aab8d4">Engenheiro de IA @ Blue Ocean &#160;&#183;&#160; Founder @ Direto Ads</text>
 
     <!-- linha com brilho passando -->
     <rect x="74" y="205" width="620" height="2.5" rx="1.25" fill="#1b2740"/>
