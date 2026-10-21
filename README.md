@@ -23,3 +23,13 @@ Vivo entre **código e conversão**: construo produtos, SaaS e automações que 
 
 <br/>
 
+
+---
+
+### Ecossistema Direto
+
+Fundador da **[DiretoAds](https://github.com/DiretoAds)** — agência de **tráfego pago** focada em **direct response**. Pra fechar o ciclo do anúncio à entrega, construí as ferramentas da casa:
+
+- **[DiretoPay](https://diretopay.netlify.app/)** — gateway de pagamento (Pix, cartão e entrega automática do acesso, inclusive por WhatsApp)
+- **[DiretoTrack](https://diretotrack.vercel.app/)** — rastreio e atribuição de vendas por campanha, em tempo real
+- **[DiretoAds](https://diretoads.vercel.app/)** — a agência de tráfego e direct response
